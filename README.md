@@ -10,6 +10,7 @@ All ground truth masks in the Inpaint32K dataset are manually created to ensure 
 Publicly available through its GitHub page, the Inpaint32K dataset provides researchers with easy access to this valuable resource. Its creation has not only enriched the field of image inpainting with extensive resources but also contributed to the advancement of image forensics. Researchers can utilize this dataset to more effectively evaluate and refine their image inpainting localization methods, addressing the security challenges posed by increasingly sophisticated image inpainting technologies.
 
 cite:
+
 @misc{Inpaint32K,
   author = "Hao, Qixian",
   title = "{Inpaint32K} Inpaint 2024 Datasets",
