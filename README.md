@@ -1,6 +1,7 @@
 # Inpaint32K_dataset
 Link：https://pan.baidu.com/s/1XFcnq6lLUSgp0vmlMnecVQ 
 code:bvl7 
+
 The Inpaint32K dataset is a high-quality collection designed for image inpainting tasks, characterized by diversity, comprehensiveness, high quality, and authenticity. It serves as a vital resource for the research and evaluation of image inpainting techniques. The dataset is meticulously curated from various sources, including Wider Person, Total-Text, RCTW 17, Coco, CelebA-HQ, Place2, and royalty-free images from the internet, ensuring a wide range of data representation.
 
 The dataset encompasses 32,000 images that have undergone inpainting using four distinct technical categories: Traditional Methods-Based (TM-Based), Convolutional Neural Network-Based (CNN-Based), Generative Adversarial Network-Based (GAN-Based), and Diffusion Model-Based (DM-Based), with 8,000 images for each category. It includes three types of tampering: replacement, filling, and removal, which not only alter the visual content of the images but may also involve a complete change in the object's attributes such as shape, color, and texture.
